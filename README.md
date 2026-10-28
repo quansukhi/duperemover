@@ -73,7 +73,7 @@ device.
 
 ## License
 
-[MIT](LICENSE).
+[GNU Affero General Public License v3.0 with Apple App Store Exception](LICENSE).
 
 ---
 
